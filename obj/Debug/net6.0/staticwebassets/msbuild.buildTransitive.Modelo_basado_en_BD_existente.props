@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Modelo_basado_en_BD_existente.props" />
+</Project>
